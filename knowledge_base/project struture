@@ -1,0 +1,18 @@
+AI Customer Support Agent/
+│
+├── backend/
+│   ├── app.py
+│   └── rag.py
+│
+├── knowledge_base/
+│   └── company_policy.txt
+│
+├── chroma_db/
+│   └── (ChromaDB vector database files)
+│
+├── venv/
+│   └── (Python virtual environment)
+│
+├── requirements.txt
+│
+└── README.md

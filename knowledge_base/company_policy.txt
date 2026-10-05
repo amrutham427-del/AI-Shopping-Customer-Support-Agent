@@ -1,0 +1,87 @@
+SHOPEASE CUSTOMER SUPPORT POLICY
+
+COMPANY INFORMATION
+
+ShopEase is an online shopping platform that provides products and delivery services to customers.
+
+PRODUCT RETURNS
+
+Customers can return an eligible product within 30 days of delivery.
+
+The product must be unused and in its original packaging.
+
+Customers can request a return after delivery if the return request is made within 30 days of delivery.
+
+DAMAGED PRODUCTS
+
+If a product is damaged when the customer receives it, the customer can return the damaged product within 30 days of delivery.
+
+The damaged product should be returned in its original packaging.
+
+Customers can contact customer support if they need help with the damaged product return process.
+
+PRODUCT EXCHANGE
+
+Customers can request an exchange for an eligible product within 30 days of delivery.
+
+The product must be unused and in its original packaging.
+
+REFUNDS
+
+Approved refunds are processed within 5-7 business days.
+
+Refunds are issued after the returned product is approved.
+
+Customers can contact customer support if an approved refund has not been received within 7 business days.
+
+SHIPPING
+
+Standard shipping takes 3-5 business days.
+
+Express shipping takes 1-2 business days.
+
+Delivery time may depend on the selected shipping method.
+
+ORDER TRACKING
+
+Customers can track their orders using the tracking link provided in their order confirmation email.
+
+The tracking link is provided after the order has been confirmed.
+
+If the tracking link is not available, customers should contact customer support.
+
+ORDER CANCELLATION
+
+Customers can request order cancellation before the order is shipped.
+
+Once an order has been shipped, it cannot be cancelled.
+
+Customers can contact customer support for help with cancellation requests.
+
+PAYMENT METHODS
+
+ShopEase accepts credit cards, debit cards, UPI, and Cash on Delivery for eligible orders.
+
+Cash on Delivery availability may depend on the product and delivery location.
+
+CUSTOMER SUPPORT
+
+Customer support is available Monday to Friday, 9 AM to 6 PM.
+
+Customers can contact human customer support during business hours.
+
+CUSTOMER SUPPORT CONTACT
+
+Customers who need human assistance can contact the ShopEase customer support team during business hours.
+
+ESCALATION POLICY
+
+The AI customer support agent must answer questions using only the information available in the ShopEase knowledge base.
+
+The AI agent must not guess or invent information.
+
+If the knowledge base does not contain enough information to answer a question, the AI agent must inform the customer that the information is unavailable.
+
+The question should then be escalated to human customer support.
+
+The AI agent should provide a direct answer whenever the required information is available in the knowledge base.

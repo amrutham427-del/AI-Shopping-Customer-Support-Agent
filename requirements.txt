@@ -1,0 +1,6 @@
+Python 3.12.0; 
+streamlit; 
+ollama; 
+PyPDF2; 
+sentence-transformers; 
+chromadb; Llama 3.2:3b
